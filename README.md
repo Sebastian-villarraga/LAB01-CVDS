@@ -50,3 +50,16 @@ PARTE I (Trabajo Individual).
 
 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 
+3. El owner le comparte la url via Teams al colaborador
+
+4. El colaborador acepta la invitación al repositorio
+
+5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+
+6. ¿Que sucedió?
+
+7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+
+8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+
+9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
