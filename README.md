@@ -109,7 +109,9 @@ revisar el código antes de integrarlo a la rama principal.
 
 ### 3. Creen una rama cada uno y suban sus cambios
 
-![image](https://github.com/user-attachments/assets/2dc06ad7-26cd-4580-a334-86aa7fafc5e4)
+aaaaaaaa
+
+
 
 
 
