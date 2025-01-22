@@ -55,14 +55,16 @@ PARTE I (Trabajo Individual).
 
 4. El owner le comparte la url via Teams al colaborador
 
-5. El colaborador acepta la invitación al repositorio
+   ![image](https://github.com/user-attachments/assets/96bb9c76-5956-4b76-824e-dfe326dd281b)
 
-6. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+6. El colaborador acepta la invitación al repositorio
 
-7. ¿Que sucedió?
+7. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
-8. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+8. ¿Que sucedió?
 
-9. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+9. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
-10. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
+10. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+
+11. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
