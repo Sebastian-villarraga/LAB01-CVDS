@@ -61,10 +61,15 @@ PARTE I (Trabajo Individual).
 
 7. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
-8. ¿Que sucedió?
+   cuando subimos los cambios al mismo tiempo ampos marcamos el commit con el nombre de cada uno a ver cual si se guardaba, el mio (Sebastian Villarraga) fue el que si se subio y el de 
+   Andres Sepulveda le arrojo el siguiente error al tratar de subirlo:
+   ![image](https://github.com/user-attachments/assets/2a0fc603-79a8-4b2c-b466-3532ddc72f82)
 
-9. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
-10. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+9. ¿Que sucedió?
 
-11. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
+10. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+
+11. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+
+12. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
