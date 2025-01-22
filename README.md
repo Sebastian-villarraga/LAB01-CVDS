@@ -108,9 +108,39 @@ Un Pull Request es una herramienta que nos permite proponer cambios a un reposit
 revisar el código antes de integrarlo a la rama principal. 
 
 ### 3. Creen una rama cada uno y suban sus cambios
-Prueba pull request en rama master
+![image](https://github.com/user-attachments/assets/3b336a8c-d10e-472d-a237-59e1eb3224e3)
 
+los cambios de las ramas son los siguientes:
+- Andres
+Prueba pull request en rama master
+- Sebastian
 aaaaaaaa
+
+4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+
+   ![image](https://github.com/user-attachments/assets/2b4d453a-616b-43be-a096-419edf2e65a3)
+   ![image](https://github.com/user-attachments/assets/027d3d23-81fc-45e1-863b-8664e10d2815)
+
+5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+
+   ![image](https://github.com/user-attachments/assets/38e71ee0-6890-4ed6-a322-9b45d72b4967)
+   ![image](https://github.com/user-attachments/assets/9054210c-e476-40ba-9e80-8f4e78b26da2)
+   ![image](https://github.com/user-attachments/assets/1c5211fc-c305-4ddb-baab-f264b1d9cdd5)
+   ![image](https://github.com/user-attachments/assets/16d39966-52da-4c23-b19e-5e8ac3f79fa1)
+   ![image](https://github.com/user-attachments/assets/b574386b-d438-4048-970d-05d40fe4f386)
+   ![image](https://github.com/user-attachments/assets/5a4ba758-dc79-4cf6-9069-47f2722e11c6)
+   ![image](https://github.com/user-attachments/assets/e41130cc-1b2b-4c92-ae2f-045a4cfff3c1)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
