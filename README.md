@@ -80,12 +80,9 @@ PARTE I (Trabajo Individual).
 
 13. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
 
-<<<<<<< HEAD
-fkqnfkqnkfkeq
 
-s
-=======
+
 feqkofnqobfpiqebg pe
 
 
->>>>>>> accb7edb8f1228adad1fc7f237c8d9b33923d7cf
+
