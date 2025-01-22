@@ -108,6 +108,7 @@ Un Pull Request es una herramienta que nos permite proponer cambios a un reposit
 revisar el código antes de integrarlo a la rama principal. 
 
 ### 3. Creen una rama cada uno y suban sus cambios
+Prueba pull request en rama master
 
 aaaaaaaa
 
