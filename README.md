@@ -95,10 +95,16 @@ eliminamos los simbolos <, =, >, la palabra 'HEAD' y solo conservamos los cambio
 ![image](https://github.com/user-attachments/assets/690282dc-fe4a-47a7-b92b-f1f2c46e6162)
 ![image](https://github.com/user-attachments/assets/52852e94-d2eb-4791-935f-8b66828fc61e)
 
+# Parte III (Trabajo de a parejas)
+1. ¿Hay una mejor forma de trabajar con git para no tener conflictos?
+Sí, lo primero es verificar siempre que mi repositorio local esté actualizado con el remoto, también que cuando se quiera trabajar en una nueva
+funcionalidad se usen ramas separadas de la principal de esta forma se facilita la corrección de posibles errores y reduce la posibilidad de conflictos.
+Además, es buena práctica realizar commits pequeños y descriptivos y hacer push regularmente para evitar que los compañeros realicen cambios en el mismo codigo antes que uno. 
+2. ¿Qué es y como funciona el Pull Request?
+Un Pull Request es una herramienta que nos permite proponer cambios a un repositorio si subirlos de una vez, de esta forma se puede colaborar y
+revisar el código antes de integrarlo a la rama principal. 
 
-
-
-obfebg 
+3. Creen una rama cada uno y suban sus cambios
 
 
 
