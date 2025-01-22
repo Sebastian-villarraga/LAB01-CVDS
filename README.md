@@ -77,6 +77,6 @@ PARTE I (Trabajo Individual).
 
 13. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
 
-fewfewfwefewfw
+feqkofnqobfpiqebg pe
 
 
