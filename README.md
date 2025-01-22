@@ -63,14 +63,17 @@ PARTE I (Trabajo Individual).
    
    ![image](https://github.com/user-attachments/assets/2a0fc603-79a8-4b2c-b466-3532ddc72f82)
    ![image](https://github.com/user-attachments/assets/f3b55405-240d-4eee-8cb0-5c07582e054b)
+   ![image](https://github.com/user-attachments/assets/8ba8b396-1401-4be0-a2d4-74f093927ea9)
 
 
 
 9. ¿Que sucedió?
 
-    cuando subimos los cambios al mismo tiempo ambos marcamos el commit con el nombre de cada uno a ver cual si se guardaba, el de Sebastian Villarraga fue el que si se subio y el de 
-    Andres Sepulveda le arrojo los errores anteriores.
-
+    - cuando subimos los cambios desde GitHub al mismo tiempo ambos marcamos el commit con el nombre de cada uno a ver cual si se 
+      guardaba, el de Sebastian Villarraga fue el que si se subio y el de Andres Sepulveda le arrojo los errores anteriores.
+    - cuando subimos los cambios desde consola al mismo tiempo ambos marcamos el 'Git add .', el 'git commit' y el 'git push' al tiempo 
+      con el nombre de cada uno a ver cual si se guardaba, el de Andres Sepulveda fue el que si se subio y el de Sebastian Villarraga le 
+      arrojo el error anterior.
 11. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
 12. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
