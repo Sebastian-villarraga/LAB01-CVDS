@@ -53,13 +53,13 @@ PARTE I (Trabajo Individual).
 ![image](https://github.com/user-attachments/assets/a8107871-6035-4709-b13e-962c14975a7c)
 
 
-4. El owner le comparte la url via Teams al colaborador
+3. El owner le comparte la url via Teams al colaborador
 
    ![image](https://github.com/user-attachments/assets/96bb9c76-5956-4b76-824e-dfe326dd281b)
 
-6. El colaborador acepta la invitación al repositorio
+4. El colaborador acepta la invitación al repositorio
 
-7. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
    
    ![image](https://github.com/user-attachments/assets/2a0fc603-79a8-4b2c-b466-3532ddc72f82)
    ![image](https://github.com/user-attachments/assets/f3b55405-240d-4eee-8cb0-5c07582e054b)
@@ -67,14 +67,15 @@ PARTE I (Trabajo Individual).
 
 
 
-9. ¿Que sucedió?
+6. ¿Que sucedió?
 
     - cuando subimos los cambios desde GitHub al mismo tiempo ambos marcamos el commit con el nombre de cada uno a ver cual si se 
       guardaba, el de Sebastian Villarraga fue el que si se subio y el de Andres Sepulveda le arrojo los errores anteriores.
     - cuando subimos los cambios desde consola al mismo tiempo ambos marcamos el 'Git add .', el 'git commit' y el 'git push' al tiempo 
       con el nombre de cada uno a ver cual si se guardaba, el de Andres Sepulveda fue el que si se subio y el de Sebastian Villarraga le 
       arrojo el error anterior.
-11. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+      
+7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
 ![image](https://github.com/user-attachments/assets/59f2dfc0-e82b-4fa9-80a1-85165ee641eb)
 ![image](https://github.com/user-attachments/assets/f94059ad-f579-4f4f-af35-8a0dac332c1d)
@@ -83,9 +84,9 @@ PARTE I (Trabajo Individual).
 eliminamos los simbolos <, =, >, la palabra 'HEAD' y solo conservamos los cambios remotos, luego de esto hicimos el git add, git commit y git push
 
 
-12. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
 
-13. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
+9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
 
 
 
