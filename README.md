@@ -85,9 +85,16 @@ eliminamos los simbolos <, =, >, la palabra 'HEAD' y solo conservamos los cambio
 
 
 8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+![image](https://github.com/user-attachments/assets/2ae7c22b-4eb2-40ae-9432-e9ee0ec9c3ff)
+![image](https://github.com/user-attachments/assets/4f63007b-d9a6-4ba9-bd91-77ac1b42f89b)
 
 
 9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
+    
+![image](https://github.com/user-attachments/assets/4f9ba436-97e5-4fc3-8014-a52292d8373e)
+![image](https://github.com/user-attachments/assets/690282dc-fe4a-47a7-b92b-f1f2c46e6162)
+![image](https://github.com/user-attachments/assets/52852e94-d2eb-4791-935f-8b66828fc61e)
+
 
 
 
