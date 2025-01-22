@@ -76,6 +76,13 @@ PARTE I (Trabajo Individual).
       arrojo el error anterior.
 11. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
+![image](https://github.com/user-attachments/assets/59f2dfc0-e82b-4fa9-80a1-85165ee641eb)
+![image](https://github.com/user-attachments/assets/f94059ad-f579-4f4f-af35-8a0dac332c1d)
+![image](https://github.com/user-attachments/assets/fd6ddec6-5356-49e0-a032-718a65d7393c)
+
+eliminamos los simbolos <, =, >, la palabra 'HEAD' y solo conservamos los cambios remotos, luego de esto hicimos el git add, git commit y git push
+
+
 12. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
 
 13. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
