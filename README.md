@@ -49,17 +49,20 @@ PARTE I (Trabajo Individual).
 	- Colaborador: Andres Sepúlveda
 
 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
+   
+![image](https://github.com/user-attachments/assets/a8107871-6035-4709-b13e-962c14975a7c)
 
-3. El owner le comparte la url via Teams al colaborador
 
-4. El colaborador acepta la invitación al repositorio
+4. El owner le comparte la url via Teams al colaborador
 
-5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+5. El colaborador acepta la invitación al repositorio
 
-6. ¿Que sucedió?
+6. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
-7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+7. ¿Que sucedió?
 
-8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+8. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
-9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
+9. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+
+10. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
