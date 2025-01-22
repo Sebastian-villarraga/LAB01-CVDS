@@ -33,6 +33,20 @@ PARTE I (Trabajo Individual).
 
 8. Configura el correo en git local de manera correcta 
 
-![Imagen punto 7](Images/7.png)
+![Imagen punto 8](Images/8.png)
 
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub)
+
+![Imagen punto 9](Images/9.png)
+
+
+# PARTE II (Trabajo en parejas)
+
+
+1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
+
+	- Owner: Sebastián Villarraga
+	- Colaborador: Andres Sepúlveda
+
+2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
+
