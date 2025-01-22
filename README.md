@@ -12,8 +12,8 @@
 
 ### 3. Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
 
-	- git add. Mueve los cambios del directorio de trabajo al área del entorno de ensayo.
-	- El comando git commit captura una instantánea de los cambios preparados en ese momento del proyecto.
+- git add. Mueve los cambios del directorio de trabajo al área del entorno de ensayo.
+- comando git commit captura una instantánea de los cambios preparados en ese momento del proyecto.
 
 ### 4. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
 
@@ -40,13 +40,18 @@
 ![Imagen punto 9](Images/9.png)
 
 
-## PARTE II (Trabajo en parejas)
+# PARTE II (Trabajo en parejas)
 
+## INTEGRANTES:
+### - **Sebastian Villarraga**
+### - **Andrés Jacobo Sepúlveda**
+
+## RESPUESTAS:
 
 ### 1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
 
-	- Owner: Sebastián Villarraga
-	- Colaborador: Andres Sepúlveda
+- #### **Owner:** Sebastián Villarraga
+- #### **Colaborador:** Andrés Sepúlveda
 
 ### 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
    
@@ -65,17 +70,15 @@
    ![image](https://github.com/user-attachments/assets/f3b55405-240d-4eee-8cb0-5c07582e054b)
    ![image](https://github.com/user-attachments/assets/8ba8b396-1401-4be0-a2d4-74f093927ea9)
 
-
-
 ### 6. ¿Qué sucedió?
 
-    - cuando subimos los cambios desde GitHub al mismo tiempo ambos marcamos el commit con el nombre de cada uno a ver cual si se 
-      guardaba, el de Sebastian Villarraga fue el que si se subio y el de Andres Sepulveda le arrojo los errores anteriores.
-    - cuando subimos los cambios desde consola al mismo tiempo ambos marcamos el 'Git add .', el 'git commit' y el 'git push' al tiempo 
-      con el nombre de cada uno a ver cual si se guardaba, el de Andres Sepulveda fue el que si se subio y el de Sebastian Villarraga le 
-      arrojo el error anterior.
+Cuando subimos los cambios desde GitHub al mismo tiempo ambos marcamos el commit con el nombre de cada uno a ver cúal si se 
+guardaba, el de Sebastian Villarraga fue el que si se subieron y el de Andres Sepúlveda le arrojo los errores anteriores.
+Cuando subimos los cambios desde consola al mismo tiempo ambos marcamos el 'Git add .', el 'git commit' y el 'git push' al tiempo 
+con el nombre de cada uno a ver cuál si se guardaba, el de Andres Sepúlveda fue el que si se subieron y el de Sebastian Villarraga le 
+arrojo el error anterior.
       
-### 7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+### 7. La persona que perdió la competencia de subir los cambios
 
 ![image](https://github.com/user-attachments/assets/59f2dfc0-e82b-4fa9-80a1-85165ee641eb)
 ![image](https://github.com/user-attachments/assets/f94059ad-f579-4f4f-af35-8a0dac332c1d)
@@ -85,14 +88,18 @@ Eliminamos los simbolos <, =, >, la palabra 'HEAD' y solo conservamos los cambio
 
 
 ### 8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+#### No hay conflicto:
 ![image](https://github.com/user-attachments/assets/2ae7c22b-4eb2-40ae-9432-e9ee0ec9c3ff)
+#### Si hay conflicto:
 ![image](https://github.com/user-attachments/assets/4f63007b-d9a6-4ba9-bd91-77ac1b42f89b)
 
 
 ### 9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
-    
+#### Para resolver los conflictos le damos arriba en resolve conflicts:
 ![image](https://github.com/user-attachments/assets/4f9ba436-97e5-4fc3-8014-a52292d8373e)
+#### En este caso tomamos la opcion de manter los cambios realizados por ellos y eliminar los que se hicieron localmente:
 ![image](https://github.com/user-attachments/assets/690282dc-fe4a-47a7-b92b-f1f2c46e6162)
+
 ![image](https://github.com/user-attachments/assets/52852e94-d2eb-4791-935f-8b66828fc61e)
 
 ## Parte III (Trabajo de a parejas)
@@ -110,24 +117,26 @@ revisar el código antes de integrarlo a la rama principal.
 ### 3. Creen una rama cada uno y suban sus cambios
 ![image](https://github.com/user-attachments/assets/3b336a8c-d10e-472d-a237-59e1eb3224e3)
 
-los cambios de las ramas son los siguientes:
+#### los cambios de las ramas son los siguientes:
 - Andres
-Prueba pull request en rama master
+"Prueba pull request en rama master"
 - Sebastian
-aaaaaaaa
+"aaaaaaaa"
 
-4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+### 4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
 
    ![image](https://github.com/user-attachments/assets/2b4d453a-616b-43be-a096-419edf2e65a3)
    ![image](https://github.com/user-attachments/assets/027d3d23-81fc-45e1-863b-8664e10d2815)
 
-5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
-
+### 5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+   #### Para el primer pull request Sebastian se encarga de aprobarlo dando en Merge Pull Request, ya que no hay errores:
    ![image](https://github.com/user-attachments/assets/38e71ee0-6890-4ed6-a322-9b45d72b4967)
+   #### Para la segunda dado que había errores primero los solucionamos y luego si se le da en Merge Pull Request
    ![image](https://github.com/user-attachments/assets/9054210c-e476-40ba-9e80-8f4e78b26da2)
-   ![image](https://github.com/user-attachments/assets/1c5211fc-c305-4ddb-baab-f264b1d9cdd5)
+   #### En este caso decidimos quitar la imagen y mantener el texto:
    ![image](https://github.com/user-attachments/assets/16d39966-52da-4c23-b19e-5e8ac3f79fa1)
    ![image](https://github.com/user-attachments/assets/b574386b-d438-4048-970d-05d40fe4f386)
+   #### Por último se verifica que si se cerraron y mezclaron de forma correcta los cambios en la rama master:
    ![image](https://github.com/user-attachments/assets/5a4ba758-dc79-4cf6-9069-47f2722e11c6)
    ![image](https://github.com/user-attachments/assets/e41130cc-1b2b-4c92-ae2f-045a4cfff3c1)
 
